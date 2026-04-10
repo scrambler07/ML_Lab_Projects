@@ -1,6 +1,6 @@
-# 🧠 Machine Learning Lab Projects
+# 🧠 Machine Learning Projects
 
-This repository contains my hands-on implementations of fundamental Machine Learning and Deep Learning algorithms as part of my academic coursework. The focus of these projects is to understand core concepts by implementing, experimenting, and evaluating models on different datasets.
+This repository contains my hands-on implementations of fundamental Machine Learning and Deep Learning algorithms. The focus of these projects is to understand core concepts by implementing, experimenting, and evaluating models on different datasets.
 
 ---
 
